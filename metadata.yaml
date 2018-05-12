@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37603
     wikipedia: http://en.wikipedia.org/wiki/Orson_F._Whitney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37718#EliasAn-Epic-of-the-Ages
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2011-10-11'
 gutenberg_type: Text
